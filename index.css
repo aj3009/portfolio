@@ -119,6 +119,7 @@ body {
     margin-top:30px;
     margin-left: 50px;
     margin-right: 50px;
+    border-radius :20px;
 }
 .footerLinks {
     display: flex;
